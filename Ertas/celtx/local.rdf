@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:dc="http://purl.org/dc/elements/1.1/"
+         xmlns:cx="http://celtx.com/NS/v1/"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="http://celtx.com/project/j72uzBdLBxNk">
+    <cx:opentabs RDF:resource="rdf:#$V.53e1"/>
+  </RDF:Description>
+  <RDF:Seq RDF:about="rdf:#$V.53e1">
+    <RDF:li RDF:resource="http://my.celtx.com/res/Ye5YuXVdl2hJ"/>
+    <RDF:li RDF:resource="http://my.celtx.com/res/ESNGr5Gl6RAS"/>
+  </RDF:Seq>
+</RDF:RDF>
