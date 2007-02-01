@@ -8,4 +8,7 @@ connection = db.open()
 root = connection.root()
 root['employees'] = ['Mary', 'Jo', 'Bob']
 transaction.commit()
+print root.items()
 connection.close()
+
+
